@@ -19,6 +19,13 @@ body{
 	float: center
 }
 img{
-	width:100%;
-	height= 50%;
+	width:50%;
+	height= 100%;
+	
+}
+.clickingImage{
+	float:right;
+}
+.clickingImage2{
+	float:left;
 }
